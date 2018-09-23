@@ -1,4 +1,4 @@
-# Bcoin
+# Acoin (port of Bcoin, adapted to Actinium)
 
 [![Build Status][circleci-status-img]][circleci-status-url]
 [![Coverage Status][coverage-status-img]][coverage-status-url]
@@ -30,7 +30,7 @@ Try it in the browser: http://bcoin.io/browser.html
 ## Install
 
 ```
-$ git clone git://github.com/bcoin-org/bcoin.git
+$ git clone git://github.com/Actinium-project/acoin/acoin.git
 $ cd bcoin
 $ npm install
 $ ./bin/bcoin
