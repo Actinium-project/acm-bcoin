@@ -1,8 +1,5 @@
 # Acoin (port of Bcoin, adapted to Actinium)
 
-[![Build Status][circleci-status-img]][circleci-status-url]
-[![Coverage Status][coverage-status-img]][coverage-status-url]
-
 __NOTE__: The latest release of bcoin contains a non-backward compatible change
 to the rest API. Please read the [changelog]'s "migrating" section for more
 details.
