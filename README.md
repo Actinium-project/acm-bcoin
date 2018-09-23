@@ -1,4 +1,4 @@
-# Acoin (port of Bcoin, adapted to Actinium)
+# ACM-Bcoin (port of Bcoin, adapted to Actinium)
 
 __NOTE__: The latest release of bcoin contains a non-backward compatible change
 to the rest API. Please read the [changelog]'s "migrating" section for more
